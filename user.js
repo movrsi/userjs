@@ -1,9 +1,13 @@
 /**
  * Privacy and security hardening for Firefox.
  * 
- * @author 
+ * @author movrsi
+ * @author pyllyukko
+ * @author hnhx
+ * @copyright movrsi 2023
+ * @license BSD 2-Clause License
+ * @version 1.0.0
  */
-
 
 /* Disable telemetry */
 user_pref("browser.newtabpage.activity-stream.feeds.telemetry", false);
