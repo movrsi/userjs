@@ -25,7 +25,7 @@ I reccommend the following addons for extended privacy and hardening of Mozilla 
 ## Credit
 Special thanks to the following users for their efforts for their own take on the Mozilla Firefox user.js configurations.
 
-[@pyllyukko](https://github.com/pyllyukko)
+[@pyllyukko](https://github.com/pyllyukko) \
 [@hnhx](https://github.com/hnhx)
 
 The Tor Project and many others.
